@@ -1,7 +1,7 @@
 # HalilYilmaz 👋
 
-- 🚀I'm working on machine learning and backend development
-- 🚀I'm currently learning mobile development(flutter)
+- 🚀I'm worked on machine learning and backend development
+- 🚀I'm currently working mobile development. Flutter , React Native and native technologies
 ---
 - 👉[Linkedin](https://www.linkedin.com/feed/)
 - 👉[Twitter]()
