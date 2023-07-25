@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Halil Yilmaz</h1>
 <h3 align="center">iOS & flutter developer in Turkey</h3>
 
-- 🔭 I’m currently working on **foody**
+- 🔭 I’m currently working on [foody](https://github.com/halilyilmaaz/Foody)
 
 - 🌱 I’m working on **Swift , Dart , Flutter , UIKit , SwiftUI**
 
