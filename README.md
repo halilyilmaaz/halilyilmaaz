@@ -1,13 +1,7 @@
-<h1 align="center">Hi 👋, I'm Halil Yilmaz</h1>
-<h3 align="center">iOS & flutter developer in Turkey</h3>
+<h1 align="center">Halil Yilmaz</h1>
+<h3 align="center">Mobile Developer in Turkey</h3>
 
 - 🔭 I’m currently working on [OnyxUP](https://github.com/OnyxUP)
-
-- 🌱 I’m working on **Swift , Dart , Flutter , UIKit , SwiftUI**
-
-- 📝 I regularly write articles on [https://medium.com/@haliilylmaaz](https://medium.com/@haliilylmaaz)
-
-- 📫 How to reach me **halilyilmaz.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
